@@ -1,10 +1,10 @@
 Project Statement: Hotel Management System
 
-##1. Problem Statement
--
+1. Problem Statement
+   -
 Small hospitality operators often use manual or disparate systems, causing errors in room status and hindering basic revenue calculation. This project addresses the need for a lightweight, simple, and reliable digital system to centralize core front-desk operations (Rooms, Guests, Bookings) and provide accurate status and financial oversight, replacing error-prone manual methods.
 
-##2. Scope of the Project
+2. Scope of the Project
    -
 The project is a single-file, desktop-based GUI application implemented using Python/Streamlit and SQLite for persistent storage.
 
@@ -20,7 +20,7 @@ Basic Reporting: Calculation and display of total revenue from active bookings.
 
 Exclusions: The scope excludes multi-user support, detailed user authentication, complex financial reporting (e.g., invoices), advanced search/filters, or third-party integrations (SMS/Email).
 
-##3. Target Users
+3. Target Users
    -
 
 Primary users include:
@@ -31,7 +31,7 @@ Front Desk/Reception Staff: Key operators processing daily check-in, check-out, 
 
 Small Hospitality Operators: Owners requiring a simple, offline management tool.
 
-##4. High-level Features
+4. High-level Features
 -
 The system offers three functional modules plus reporting:
 
@@ -42,3 +42,4 @@ Guest Management (Create/Read): Quickly adds guest profiles (Name, Contact, Emai
 Booking Management (CRUD): Creates reservations, linking guests to available rooms, calculating total amount, and automatically handles room status upon check-out.
 
 Revenue Reporting: Displays the total revenue sum from all active bookings.
+
