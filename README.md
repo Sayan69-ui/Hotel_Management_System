@@ -64,7 +64,7 @@ pip install streamlit pandas
 
 streamlit run Hotel_Management_System.py
 
-3. Use the Sidebar Menu to Operate
+3. Use the Side bar Menu to Operate
 
 
 ---
