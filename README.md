@@ -1,4 +1,5 @@
-Hotel Management System
+#Hotel Management System
+-
 Overview
 This project is a lightweight, single-file Hotel Management System built using Python and Streamlit. It provides a simple graphical user interface (GUI) for front desk operations, including managing rooms, guests, bookings, and generating basic reports. The application uses SQLite as its backend database for persistent storage.
 It satisfies the requirement for a project with multiple functional modules (Room Management, Guest Management, and Booking Management) and demonstrates CRUD (Create, Read, Update, Delete) operations.
