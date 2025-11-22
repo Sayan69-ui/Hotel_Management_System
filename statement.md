@@ -1,4 +1,5 @@
 Project Statement: Hotel Management System
+-
 
 1. Problem Statement
    -
@@ -42,5 +43,6 @@ Guest Management (Create/Read): Quickly adds guest profiles (Name, Contact, Emai
 Booking Management (CRUD): Creates reservations, linking guests to available rooms, calculating total amount, and automatically handles room status upon check-out.
 
 Revenue Reporting: Displays the total revenue sum from all active bookings.
+
 
 
