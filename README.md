@@ -1,4 +1,4 @@
-## 🏨 Hotel Management System (Python & Streamlit)
+## 🏨 Hotel Management System 
 
 This is a lightweight, single-file **Hotel Management System** built with **Python** and **Streamlit**. It provides a simple Graphical User Interface (GUI) for front desk operations, managing rooms, guests, and bookings. It uses **SQLite** as a backend database for persistent storage, satisfying the requirements for a project demonstrating multiple functional modules and **CRUD** operations.
 
