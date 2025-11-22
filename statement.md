@@ -32,7 +32,7 @@ Front Desk/Reception Staff: Key operators processing daily check-in, check-out, 
 Small Hospitality Operators: Owners requiring a simple, offline management tool.
 
 4. High-level Features
--
+   -
 The system offers three functional modules plus reporting:
 
 Room Management (CRUD): Registers rooms, defines price/type, and tracks occupancy status in real-time.
@@ -42,4 +42,5 @@ Guest Management (Create/Read): Quickly adds guest profiles (Name, Contact, Emai
 Booking Management (CRUD): Creates reservations, linking guests to available rooms, calculating total amount, and automatically handles room status upon check-out.
 
 Revenue Reporting: Displays the total revenue sum from all active bookings.
+
 
