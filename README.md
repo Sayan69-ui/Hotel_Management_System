@@ -58,9 +58,10 @@ Pandas	Tabular data visualization & transformation
 📂 Project File Structure
 
 **📁 hotel-management-system
-│── hotel_management.db (auto-created after first run)
-│── app.py
-│── README.md**
+
+ hotel_management.db (auto-created after first run)
+ Hotel_Management_System.py
+ README.md**
 
 
 ---
