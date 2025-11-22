@@ -57,10 +57,10 @@ Pandas	Tabular data visualization & transformation
 
 📂 Project File Structure
 
-📁 hotel-management-system
+**📁 hotel-management-system
 │── hotel_management.db (auto-created after first run)
 │── app.py
-│── README.md
+│── README.md**
 
 
 ---
@@ -99,22 +99,6 @@ Hotels, lodges, PGs, homestays
 
 Small hospitality operators requiring an offline management system
 
-
-
----
-
-📸 Suggested Screenshots (Add before submission)
-
-Rooms table
-
-Booking creation
-
-Booking list & revenue
-
-Check-out confirmation
-
-
-(I can generate these for you if needed)
 
 
 ---
