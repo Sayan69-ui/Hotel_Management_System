@@ -56,15 +56,15 @@ Pandas	Tabular data visualization & transformation
 
 🚀 How to Install & Run
 
-1️⃣ Install Required Libraries
+1. Install Required Libraries
 
 pip install streamlit pandas
 
-2️⃣ Launch the App
+2. Launch the App
 
-streamlit run app.py
+streamlit run Hotel_Management_System.py
 
-3️⃣ Use the Sidebar Menu to Operate
+3. Use the Sidebar Menu to Operate
 
 
 ---
