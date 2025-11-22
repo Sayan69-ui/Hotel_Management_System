@@ -49,7 +49,7 @@ This project requires **Python 3.6+** and the necessary libraries (`streamlit` a
 
     ```bash
     git clone https://github.com/Sayan69-ui/Hotel_Management_System.git
-    cd Hotel_Management_System
+    
     ```
 
 2.  **Install Dependencies:**
